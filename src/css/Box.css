@@ -1,0 +1,49 @@
+.Box1{
+    width: 180px;
+    height: 180px;
+    background-color: purple;
+    display: inline-block;
+}
+.Box2{
+    width: 180px;
+    height: 180px;
+    background-color: pink;
+    display: inline-block;
+
+}
+.Box3{
+    width: 180px;
+    height: 180px;
+    background-color: greenyellow;
+    display: inline-block;
+
+}
+.Box4{
+    width: 180px;
+    height: 180px;
+    background-color: gold;
+    display: inline-block;
+
+}
+.Box5{
+    width: 180px;
+    height: 180px;
+    background-color: blue;
+    display: inline-block;
+
+}
+.Box6{
+    width: 180px;
+    height: 180px;
+    background-color: red;
+    display: inline-block;
+
+}
+
+.Container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-left: 200px;
+    margin-right: 200px;
+}
